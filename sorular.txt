@@ -1,0 +1,200 @@
+1- Kaç tane hayvan sayarsın?
+2- Kaç tane okul eşyası sayarsın?
+3- Kaç tane padişah sayarsın?
+4- Kaç tane gezegen sayarsın?
+5- Kaç tane dizi oyuncusu sayarsın?
+6- Kaç tane bilim dalı sayarsın?
+7- Kaç tane meyve sayarsın?
+8- Kaç tane sebze sayarsın?
+9- Kaç tane renk sayarsın?
+10- Kaç tane çizgi film karakteri sayarsın?
+11- Kaç tane ülke sayarsın?
+12- Kaç tane şehir sayarsın?
+13- Kaç tane lider sayarsın?
+14- Kaç tane şair sayarsın?
+15- Kaç tane futbol takımı sayarsın?
+16- Kaç tane bilgisayar markası sayarsın?
+17- Kaç tane telefon markası sayarsın?
+18- Kaç tane kış sporu sayarsın?
+19- Kaç tane yaz sporu sayarsın?
+20- Kaç tane tatlı çeşidi sayarsın?
+21- Kaç tane içecek sayarsın?
+22- Kaç tane evcil hayvan sayarsın?
+23- Kaç tane müzik aleti sayarsın?
+24- Kaç tane çizgi roman kahramanı sayarsın?
+25- Kaç tane ulaşım aracı sayarsın?
+26- Kaç tane gök cismi sayarsın?
+27- Kaç tane okul dersi sayarsın?
+28- Kaç tane icat sayarsın?
+29- Kaç tane bilim insanı sayarsın?
+30- Kaç tane tarihi eser sayarsın?
+31- Kaç tane film sayarsın?
+32- Kaç tane kitap sayarsın?
+33- Kaç tane oyun sayarsın?
+34- Kaç tane meslek sayarsın?
+35- Kaç tane deniz canlısı sayarsın?
+36- Kaç tane kuş türü sayarsın?
+37- Kaç tane çiçek sayarsın?
+38- Kaç tane ağaç sayarsın?
+39- Kaç tane dağ sayarsın?
+40- Kaç tane nehir sayarsın?
+41- Kaç tane göl sayarsın?
+42- Kaç tane takım elbise parçası sayarsın?
+43- Kaç tane günlük eşya sayarsın?
+44- Kaç tane sporcu sayarsın?
+45- Kaç tane şarkıcı sayarsın?
+46- Kaç tane yönetmen sayarsın?
+47- Kaç tane müzik grubu sayarsın?
+48- Kaç tane masal kahramanı sayarsın?
+49- Kaç tane çizgi film sayarsın?
+50- Kaç tane sayı sayarsın?
+51- Kaç tane matematik terimi sayarsın?
+52- Kaç tane fizik terimi sayarsın?
+53- Kaç tane kimya terimi sayarsın?
+54- Kaç tane biyoloji terimi sayarsın?
+55- Kaç tane geometri şekli sayarsın?
+56- Kaç tane gece gökyüzünde görülen şey sayarsın?
+57- Kaç tane tatil yeri sayarsın?
+58- Kaç tane hediye sayarsın?
+59- Kaç tane yemek sayarsın?
+60- Kaç tane ülke başkenti sayarsın?
+61- Kaç tane dil sayarsın?
+62- Kaç tane alfabe harfi sayarsın?
+63- Kaç tane çizgi film hayvanı sayarsın?
+64- Kaç tane pasta türü sayarsın?
+65- Kaç tane kahve çeşidi sayarsın?
+66- Kaç tane çay çeşidi sayarsın?
+67- Kaç tane yemek malzemesi sayarsın?
+68- Kaç tane kıyafet sayarsın?
+69- Kaç tane oyuncak sayarsın?
+70- Kaç tane çocuk kitabı sayarsın?
+71- Kaç tane üniversite dersi sayarsın?
+72- Kaç tane spor malzemesi sayarsın?
+73- Kaç tane araç markası sayarsın?
+74- Kaç tane uçak modeli sayarsın?
+75- Kaç tane gemi türü sayarsın?
+76- Kaç tane gezegen özelliği sayarsın?
+77- Kaç tane element sayarsın?
+78- Kaç tane molekül sayarsın?
+79- Kaç tane ressam sayarsın?
+80- Kaç tane yazar sayarsın?
+81- Kaç tane filozof sayarsın?
+82- Kaç tane komedyen sayarsın?
+83- Kaç tane sunucu sayarsın?
+84- Kaç tane doktor sayarsın?
+85- Kaç tane mühendis sayarsın?
+86- Kaç tane mucit sayarsın?
+87- Kaç tane kahraman sayarsın?
+88- Kaç tane okyanus sayarsın?
+89- Kaç tane nehir sayarsın?
+90- Kaç tane göl sayarsın?
+91- Kaç tane ada sayarsın?
+92- Kaç tane ünlü sporcu sayarsın?
+93- Kaç tane ünlü şarkıcı sayarsın?
+94- Kaç tane müzik festivali sayarsın?
+95- Kaç tane oyun karakteri sayarsın?
+96- Kaç tane popüler uygulama sayarsın?
+97- Kaç tane tatil ülkesi sayarsın?
+98- Kaç tane gezegen uydusu sayarsın?
+99- Kaç tane internet sitesi sayarsın?
+100- Kaç tane çizgi roman karakteri sayarsın?
+101- Kaç tane ünlü bilim insanı sayarsın?
+102- Kaç tane ünlü lider sayarsın?
+103- Kaç tane ünlü mucit sayarsın?
+104- Kaç tane ünlü yazar sayarsın?
+105- Kaç tane ünlü ressam sayarsın?
+106- Kaç tane ünlü filozof sayarsın?
+107- Kaç tane ünlü komedyen sayarsın?
+108- Kaç tane ünlü doktor sayarsın?
+109- Kaç tane ünlü mühendis sayarsın?
+110- Kaç tane ünlü kahraman sayarsın?
+111- Kaç tane hayvan türü sayarsın?
+112- Kaç tane kuş türü sayarsın?
+113- Kaç tane balık türü sayarsın?
+114- Kaç tane deniz canlısı sayarsın?
+115- Kaç tane çiçek türü sayarsın?
+116- Kaç tane ağaç türü sayarsın?
+117- Kaç tane dağ sayarsın?
+118- Kaç tane volkan sayarsın?
+119- Kaç tane nehir sayarsın?
+120- Kaç tane göl sayarsın?
+121- Kaç tane ada sayarsın?
+122- Kaç tane takım elbise parçası sayarsın?
+123- Kaç tane günlük eşya sayarsın?
+124- Kaç tane spor malzemesi sayarsın?
+125- Kaç tane araç markası sayarsın?
+126- Kaç tane uçak modeli sayarsın?
+127- Kaç tane gemi türü sayarsın?
+128- Kaç tane ulaşım aracı sayarsın?
+129- Kaç tane gezegen sayarsın?
+130- Kaç tane gezegen özelliği sayarsın?
+131- Kaç tane gök cismi sayarsın?
+132- Kaç tane element sayarsın?
+133- Kaç tane molekül sayarsın?
+134- Kaç tane matematik terimi sayarsın?
+135- Kaç tane fizik terimi sayarsın?
+136- Kaç tane kimya terimi sayarsın?
+137- Kaç tane biyoloji terimi sayarsın?
+138- Kaç tane geometri şekli sayarsın?
+139- Kaç tane sayı sayarsın?
+140- Kaç tane alfabe harfi sayarsın?
+141- Kaç tane dil sayarsın?
+142- Kaç tane ülke sayarsın?
+143- Kaç tane ülke başkenti sayarsın?
+144- Kaç tane şehir sayarsın?
+145- Kaç tane şehir meydanı sayarsın?
+146- Kaç tane tatil yeri sayarsın?
+147- Kaç tane yemek sayarsın?
+148- Kaç tane yemek malzemesi sayarsın?
+149- Kaç tane tatlı çeşidi sayarsın?
+150- Kaç tane pasta türü sayarsın?
+151- Kaç tane içecek sayarsın?
+152- Kaç tane kahve çeşidi sayarsın?
+153- Kaç tane çay çeşidi sayarsın?
+154- Kaç tane hediye sayarsın?
+155- Kaç tane oyuncak sayarsın?
+156- Kaç tane çocuk kitabı sayarsın?
+157- Kaç tane üniversite dersi sayarsın?
+158- Kaç tane okul dersi sayarsın?
+159- Kaç tane oyun sayarsın?
+160- Kaç tane çizgi film sayarsın?
+161- Kaç tane çizgi film karakteri sayarsın?
+162- Kaç tane çizgi film hayvanı sayarsın?
+163- Kaç tane çizgi roman kahramanı sayarsın?
+164- Kaç tane masal kahramanı sayarsın?
+165- Kaç tane müzik aleti sayarsın?
+166- Kaç tane müzik grubu sayarsın?
+167- Kaç tane şarkıcı sayarsın?
+168- Kaç tane yönetmen sayarsın?
+169- Kaç tane film sayarsın?
+170- Kaç tane kitap sayarsın?
+171- Kaç tane ressam sayarsın?
+172- Kaç tane yazar sayarsın?
+173- Kaç tane filozof sayarsın?
+174- Kaç tane komedyen sayarsın?
+175- Kaç tane sunucu sayarsın?
+176- Kaç tane doktor sayarsın?
+177- Kaç tane mühendis sayarsın?
+178- Kaç tane mucit sayarsın?
+179- Kaç tane lider sayarsın?
+180- Kaç tane kahraman sayarsın?
+181- Kaç tane hayvan sayarsın?
+182- Kaç tane okul eşyası sayarsın?
+183- Kaç tane padişah sayarsın?
+184- Kaç tane gezegen sayarsın?
+185- Kaç tane dizi oyuncusu sayarsın?
+186- Kaç tane bilim dalı sayarsın?
+187- Kaç tane meyve sayarsın?
+188- Kaç tane sebze sayarsın?
+189- Kaç tane renk sayarsın?
+190- Kaç tane sayısal terim sayarsın?
+191- Kaç tane lider sayarsın?
+192- Kaç tane tarihi eser sayarsın?
+193- Kaç tane oyun karakteri sayarsın?
+194- Kaç tane popüler uygulama sayarsın?
+195- Kaç tane internet sitesi sayarsın?
+196- Kaç tane sporcu sayarsın?
+197- Kaç tane müzik festivali sayarsın?
+198- Kaç tane tatil ülkesi sayarsın?
+199- Kaç tane gezegen uydusu sayarsın?
+200- Kaç tane ada sayarsın?

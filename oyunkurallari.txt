@@ -1,0 +1,9 @@
+Nasıl Oynanır? 
+öncelikle kaç grup yarışacaksa o kadar grup oluşturulur.Ardından ilk soru gelir ve gruplar soru hakkında açık artırmaya girer.(ben 3 tane sayarım ben 7 tane sayarım gibi)
+ardından açık artırmayı kazanan grup programa bildirilir ve o grup için süre başlar.30 saniye içinde o soruyu cevaplamaya çalışır.
+cevaplayabilirse 1 puan kazanır ve skoru artar eğer cevaplayamaz ise 1 skor kaybeder.
+toplamda 10 skora ulaşan kazanır ve 0 skora düşen kaybeder.(her grup 3 skor ile oyuna başlar)
+soruyu cevaplama esnasında her takımın 1 kez kullanabileceği eksüre jokeri vardır.ve 1 tuşuna bsarak 30 saniye ek süre verir.
+
+
+

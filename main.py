@@ -37,7 +37,7 @@ def input_int(mesaj, varsayılan=None) -> int:
 
 
 # dosyamızı açıp kapatırken bu dosya yolunu kullanıcaz.
-dosya_yolu = "C:\\Users\\Hasan Tuna\\Desktop\\var_mı_artıran\\sorular.txt"
+dosya_yolu = "sorular.txt"
 
 
      
